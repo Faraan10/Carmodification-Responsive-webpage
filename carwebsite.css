@@ -1,0 +1,141 @@
+#go{
+    border:none;
+    font-weight:bold;
+}
+.goes{
+    color:white;
+    background-color:red;
+    border-radius:5px;
+    padding:5px;
+    border:none;
+}
+.navimage{
+    height:60px;
+    width:160px;
+}
+#go:hover{
+    color:red;    
+}
+.goes:hover{
+    background-color:grey;
+    color:red;
+}
+.bgimg1{
+    background-image: url("http://wallpaperset.com/w/full/5/7/9/489143.jpg");
+    height:80vh;
+    background-size:cover;
+}
+.headerone{
+    color:white;
+    font-family:Arial;
+    margin:5px;
+    font-weight:bold;
+}
+.paraone{
+    color:white;
+    font-family:Arial;
+    margin:15px;
+    font-weight:300;
+    font-size:24px;
+}
+.buttonone{
+    background-color:red;
+    color:white;
+    border-radius:10px;
+    margin:20px;
+    height:45px;
+    width:230px;
+    font-family:Arial;
+    font-weight:bold;
+}
+.para2{
+    color:black;
+    font-family:arial;
+    font-size:16px;
+}
+.faraan{
+    text-align:center;
+    background-color:white;
+    border-style:solid;
+    border-width:1px;
+    border-color:black;
+    border-radius:16px;
+}
+.cardimage{
+    height:150px;
+    width:150px;
+}
+.chead{
+    font-family:arial;
+    font-size:20px;
+    font-weight:bold;
+}
+.cpara{
+    font-family:Arial;
+    font-size:16px;
+}
+.offers{
+    font-family:arial;
+    font-weight:bold;
+}
+.bgimg4{
+    background-color:white;
+}
+.headforcontainer{
+    font-weight:bold;
+    font-family:arial;
+    font-size:26px;
+}
+.exploreimage{
+    height:50%;
+    border-radius:16px;
+}
+.cardhead4{
+    font-size:30px;
+    font-family:arial;
+    font-weight:bold;
+    margin-top:24px;
+    font-size:20px;
+}
+.explorecards{
+    border-radius:16px;
+}
+.explorelink{
+    color:red;
+    font-family:arial;
+    font-weight:bold;
+    font-size:16px;
+}
+.paybgimg{
+    background-color:white;
+}
+.paymentimg{
+    width:350px;
+}
+.payhead{
+    font-family:arial;
+    font-weight:bold;
+    font-size:26px;
+}
+.paypara{
+    font-family:arial;
+    font-size:16px;
+}
+.cstbutton{
+    color:white;
+    background-color:red;
+    width:130px;
+    height:45px;
+    border-width:0px;
+    border-radius:10px;
+
+}
+.paycarding{
+    height:50px;
+    width:50px;
+    margin:7px;
+}
+#contact{
+    background-color:grey;
+    padding-bottom:4rem;
+}
